@@ -22,5 +22,5 @@ In your scenario, you will be working with data from the following sources:
 - Task 6: Create database objects by generating and running the SQL script from the ERD Tool
 - Task 7: Create a view and export the data
 - Task 8: Create a materialized view and export the data
-- Task 9: Import data into a Db2 database
+- Task 9: Import data into a Datasette database
 - Task 10: Import data into a MySQL database
