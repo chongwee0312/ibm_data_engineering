@@ -12,5 +12,7 @@
 | [project_08](project_08) | Extracting and Streaming Road Traffic Data for a Consulting Company | ETL (Apache Airflow), ESP (Apache Kafka), Relational Database (MySQL) |
 | [project_09](project_09) | Desining a Data Warehouse for a Solid Waste Management Company | Relational Database (PostgreSQL), Dashboard (Cogno Analytics) |
 | [project_10](project_10) | Quering Data in NoSQL Databases | NoSQL Database (Cloudant, MongoDB, Cassandra) |
+| [project_11](project_11) | Extract Transform Load Datasets with PySpark | PySpark |
+| [project_12](project_12) | Creating a Data Pipeline for HR Deparment | PySpark |
 | [extra_01](extra_01) | Normalising a Database From 1NF to 3NF | Normalisation of a Database, Relational Database (PostgreSQL) |
 | [extra_02](extra_02) | Loading Data and Quering in a Relational Database | Relational Database (MySQL) |
