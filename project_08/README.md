@@ -52,3 +52,7 @@ The following tasks will be performed
    - Task 2.7: Configure streaming_data_reader.py
    - Task 2.8: Run streaming_data_reader.py
    - Task 2.9: Health check of the streaming data pipeline
+  
+# Tools / Software
+- Apache Airflow
+- Apache Kafka
