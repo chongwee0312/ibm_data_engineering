@@ -1,3 +1,6 @@
+# Project Title
+Loading Data and Quering in a Relational Database
+
 # Introduction
 The practice problems for this Lab will provide hands on experience with string patterns, sorting result sets and grouping result sets. You will also learn how to run SQL scripts to create several tables at once, as well as how to load data into tables from .csv files.
 
