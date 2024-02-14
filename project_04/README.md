@@ -1,3 +1,6 @@
+# Project Title
+Analysing Crime Activities in Chicago
+
 # Introduction
 This project aims to analyse the crime activities in Chicago by using three real world datsets
 
