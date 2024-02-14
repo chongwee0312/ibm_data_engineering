@@ -14,5 +14,7 @@
 | [project_10](project_10) | Quering Data in NoSQL Databases | NoSQL Database (Cloudant, MongoDB, Cassandra) |
 | [project_11](project_11) | Extract Transform Load Datasets with PySpark | PySpark |
 | [project_12](project_12) | Creating a Data Pipeline for HR Deparment | PySpark |
+| [project_13](project_13) | Creating a Machine Learning Pipeline to Predict Miles Per Gallon of a Vehicle | PySpark |
+| [project_14](project_14) | Creating a Machine Learning Pipeline to Predict Sound Level | PySpark |
 | [extra_01](extra_01) | Normalising a Database From 1NF to 3NF | Normalisation of a Database, Relational Database (PostgreSQL) |
 | [extra_02](extra_02) | Loading Data and Quering in a Relational Database | Relational Database (MySQL) |
