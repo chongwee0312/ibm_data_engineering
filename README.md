@@ -16,5 +16,6 @@
 | [project_12](project_12) | Creating a Data Pipeline for HR Deparment | PySpark |
 | [project_13](project_13) | Creating a Machine Learning Pipeline to Predict Miles Per Gallon of a Vehicle | PySpark |
 | [project_14](project_14) | Creating a Machine Learning Pipeline to Predict Sound Level | PySpark |
+| [project_15](project_15) | Setup Test and Optimizing a Data Platform | Relational Database (PostgreSQL, MySQL, IBM Db2), Bash Script |
 | [extra_01](extra_01) | Normalising a Database From 1NF to 3NF | Normalisation of a Database, Relational Database (PostgreSQL) |
 | [extra_02](extra_02) | Loading Data and Quering in a Relational Database | Relational Database (MySQL) |
