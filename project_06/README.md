@@ -15,3 +15,7 @@ In this project, the folliowing tasks will be performed.
 - Add some basic analytics to the report
 - Schedule the report to update daily
 - Measure and report on historical forecasting accuracy.curacy
+
+# Tools / Software
+- Python
+- Bash
