@@ -8,3 +8,4 @@
 | [project_04](project_04) | Analysing Crime Activities in Chicago 1 | SQL with Python (sqlite3) |
 | [project_05](project_05) | Analysing Crime Activities in Chicago 2 | Relational Database (MySQL), Advanced SQL Techniques (Transaction and Procedure) |
 | [project_06](project_06) | Historical Weather Forecast Comparison to Actuals | Bash Script |
+| [project_07](project_07) | Creating a Scheduled Backup Script for a Tech Company | Bash Script |
