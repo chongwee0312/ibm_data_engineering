@@ -60,3 +60,4 @@ Part 3 (IBM Db2)
 - PostgreSQL
 - MySQL
 - IBM Db2
+- Bash
