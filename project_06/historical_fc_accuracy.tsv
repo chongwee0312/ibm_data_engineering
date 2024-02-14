@@ -1,0 +1,9 @@
+year	month	day	obs_tmp	fc_temp	temp_difference	accuracy_range
+2024	02	4	10	12	2	good
+2024	02	5	13	10	-3	fair
+2024	02	6	14	13	-1	excellent
+2024	02	7	19	14	-5	poor
+2024	02	8	10	19	9	poor
+2024	02	9	9	10	1	excellent
+2024	02	10	7	9	2	good
+2024	02	11	-2	7	9	poor
