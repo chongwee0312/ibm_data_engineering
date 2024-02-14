@@ -20,3 +20,8 @@ You are a data engineer at a Data Analytics Consulting Company. Your company pri
 - Write a cql query to count the number of rows in the movies table
 - Create an index for the column rating in the movies table using cql
 - Write a cql query to count the number of in the movies that are rated 'G'
+
+# Tools / Software
+- Cloudant
+- MongoDB
+- Cassandra
