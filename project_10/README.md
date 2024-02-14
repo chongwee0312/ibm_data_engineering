@@ -1,5 +1,5 @@
 # Project Title
-Querying data in NoSQL databases
+Querying Data in NoSQL Databases
 
 # Scenario
 You are a data engineer at a Data Analytics Consulting Company. Your company prides itself in being able to efficiently handle data in any format on any database on any platform. Analysts in the offices need to work with data on different databases, and with data in different formats. While they are good at analyzing data, they count on you to be able to move data from external sources into various databases, move data from one type of database to another, and be able to run basic queries on various databases.
