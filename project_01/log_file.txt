@@ -1,0 +1,8 @@
+2024-Jan-30-22:41:05 : Preliminaries is complete. Initiating ETL process.
+2024-Jan-30-22:41:07 : Data extraction is complete. Initiating Transformation process.
+2024-Jan-30-22:41:07 : Data transformation is complete. Initiating loading process.
+2024-Jan-30-22:41:07 : Data has been saved as a CSV file
+2024-Jan-30-22:41:07 : SQL connection has been initiated
+2024-Jan-30-22:41:07 : Data has been loaded to the World_Economies.db Database as a table.
+2024-Jan-30-22:41:07 : Process is complete
+2024-Jan-30-22:41:07 : Server Connection closed
