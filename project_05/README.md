@@ -1,3 +1,6 @@
+# Project Title
+Analysing Social Activities in Chicago
+
 # Scenario
 You have to analyse the following datasets for the city of Chicago, as available on the Chicago City data portal.
 - Socioeconomic indicators in Chicago
