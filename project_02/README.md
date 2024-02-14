@@ -35,3 +35,6 @@ Particulars of the code to be made have been shared below.
 5. Load the transformed dataframe to an SQL database server as a table. Write a function load_to_db(), execute a function call and verify the output.
 6. Run queries on the database table. Write a function load_to_db(), execute a given set of queries and verify the output.
 7. Verify that the log entries have been completed at all stages by checking the contents of the file code_log.txt.
+
+# Tools / Software
+- Python
