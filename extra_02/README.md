@@ -20,3 +20,6 @@ Complete the following three parts:
    - In previous query, order the result set by Average Salary
    - In previous query, limit the result to departments with fewer than 4 employees
    - Instead of department ID use department name. Retrieve a list of employees ordered by department name, and within each department ordered alphabetically in descending order by last name
+
+# Tools / Software
+- MySQL
