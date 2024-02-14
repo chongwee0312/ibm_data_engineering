@@ -10,5 +10,6 @@
 | [project_06](project_06) | Historical Weather Forecast Comparison to Actuals | Bash Script |
 | [project_07](project_07) | Creating a Scheduled Backup Script for a Tech Company | Bash Script |
 | [project_08](project_08) | Extracting and Streaming Road Traffic Data for a Consulting Company | ETL (Apache Airflow), ESP (Kafka), Relational Database (MySQL) |
+| [project_09](project_09) | Desining a Data Warehouse for a Solid Waste Management Company | Relational Database (PostgreSQL), Dashboard (Cogno Analytics) |
 | [extra_01](extra_01) | Normalising a Database From 1NF to 3NF | Normalisation of a Database, Relational Database (PostgreSQL) |
 | [extra_02](extra_02) | Loading Data and Quering in a Relational Database | Relational Database (MySQL) |
