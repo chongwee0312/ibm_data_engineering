@@ -17,5 +17,4 @@ In this project, the folliowing tasks will be performed.
 - Measure and report on historical forecasting accuracy.curacy
 
 # Tools / Software
-- Python
 - Bash
