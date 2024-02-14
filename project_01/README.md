@@ -17,3 +17,6 @@ Complete the following tasks:
 3. Load the transformed information to the required CSV file and as a database file.
 4. Run the required query on the database.
 5. Log the progress of the code with appropriate timestamps.
+
+# Tools / Software
+- Python
