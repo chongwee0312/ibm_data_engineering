@@ -27,3 +27,8 @@ In your scenario, you will be working with data from the following sources:
 - Task 8: Create a materialized view and export the data
 - Task 9: Import data into a Datasette database
 - Task 10: Import data into a MySQL database
+
+# Tools / Software
+- PostgreSQL
+- Datasette
+- MySQL
