@@ -16,3 +16,7 @@ You are a data engineer hired by a solid waste management company. The company c
 - Write aggregation queries
 - Create MQTs
 - Create a Dashboard
+
+# Tools / Software
+- PostgreSQL
+- Cogno Analytics
