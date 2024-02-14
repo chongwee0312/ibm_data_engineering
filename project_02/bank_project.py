@@ -90,7 +90,7 @@ url = 'https://web.archive.org/web/20230908091635/https://en.wikipedia.org/wiki/
 table_name = 'Largest_banks'
 table_attribs = ['Name', 'MC_USD_Billion']
 csv_path = 'exchange_rate.csv'
-output_path = './Largest_banks_data.csv'
+output_path = 'Largest_banks_data.csv'
 db_name = 'Banks.db'
 log_file = 'code_log.txt'
 
