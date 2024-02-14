@@ -1,3 +1,6 @@
+# Project Title
+Acquiring and Processing Information on the World's Largest Banks
+
 # Introduction
 In this project, a complete ETL pipeline will be created to access a real-world data and process it to meet the requirements.
 
